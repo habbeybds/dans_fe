@@ -1,0 +1,16 @@
+.navbar-brand {
+    min-width: 170px;
+}
+
+.header-logo {
+    max-width: 1480px;
+}
+
+.bg-dark-red {
+    background-color: #b00011;
+}
+
+.sidebar .nav-link:hover {
+    color: #363636;
+    background: #f0f0f0;
+}

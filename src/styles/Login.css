@@ -1,0 +1,35 @@
+.vw-80 {
+    min-width: 80%;
+}
+
+.login {
+    background-image: url('../assets/img/bg/dans-web-final-hd.jpg') !important;
+    background-position: 50% !important;
+    background-size: cover !important;
+}
+
+.cover-login {
+    padding: 30px 60px;
+    border-radius: 5px;
+    background: #ffffff9c;
+}
+
+.header-login {
+    background: transparent;
+    border: 0;
+}
+
+@media (max-width: 768px) {
+    .login {
+        overflow: auto;
+        background-image: url('../assets/img/bg/dans-web-final-mob.jpg') !important;
+        background-position: 0% !important;
+        background-size: cover !important;
+    }
+
+    .cover-login {
+        padding: 20px;
+        border-radius: 5px;
+        background: #ffffff9c;
+    }
+}
